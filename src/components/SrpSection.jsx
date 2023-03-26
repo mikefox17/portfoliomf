@@ -1,9 +1,9 @@
 import React from 'react';
 import { card, srp } from '../assets';
 import styles, { layout } from '../style';
-import Button from '../components/Button';
+import Button from './Button';
 
-const CardDeal = () => (
+const SrpSection = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
@@ -31,4 +31,4 @@ const CardDeal = () => (
   </section>
 );
 
-export default CardDeal;
+export default SrpSection;

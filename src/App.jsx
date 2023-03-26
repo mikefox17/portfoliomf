@@ -3,7 +3,8 @@ import styles from './style.js';
 import {
   Navbar,
   DaSection,
-  CardDeal,
+  SrpSection,
+  RedrockSection,
   Business,
   Clients,
   CTA,
@@ -29,7 +30,7 @@ const App = () => (
     </div>
     <div className={`bg-primary ${styles.flexStart} ${styles.paddingX}`}>
       <div className={`${styles.boxWidth}`}>
-        <Business /> <DaSection /> <CardDeal /> <Testimonials /> <Clients />{' '}
+        <Business /> <DaSection /> <SrpSection /> <RedrockSection /> <Clients />{' '}
         <CTA />
         <Contact />
         <Footer />

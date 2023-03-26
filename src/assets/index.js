@@ -28,6 +28,7 @@ import da from './da.png';
 import srp from './srp.png';
 import desktop from './desktop.png';
 import dascreens from './dascreens.png';
+import rrf from './rrf.png';
 
 export {
   airbnb,
@@ -60,4 +61,5 @@ export {
   srp,
   desktop,
   dascreens,
+  rrf,
 };

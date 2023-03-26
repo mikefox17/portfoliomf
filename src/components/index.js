@@ -1,6 +1,6 @@
 import Navbar from './Navbar';
 import DaSection from './DaSection';
-import CardDeal from './CardDeal';
+import SrpSection from './SrpSection';
 import Business from './Business';
 import Clients from './Clients';
 import CTA from './CTA';
@@ -9,11 +9,13 @@ import Footer from './Footer';
 import Testimonials from './Testimonials';
 import Hero from './Hero';
 import Contact from './Contact';
+import RedrockSection from './RedrockSection';
 
 export {
   Navbar,
   DaSection,
-  CardDeal,
+  SrpSection,
+  RedrockSection,
   Business,
   Clients,
   CTA,
