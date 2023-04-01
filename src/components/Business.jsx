@@ -39,7 +39,6 @@ const Business = () => {
           speed and mobile responsiveness to attract and retain more customers,
           ultimately generating more revenue for my clients' businesses.
         </p>
-        <Button styles="mt-10" content="Get Started" url="#" />
       </div>
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature, index) => (
