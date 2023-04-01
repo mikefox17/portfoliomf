@@ -21,7 +21,7 @@ const DaSection = () => (
           Case Study
         </span>{' '}
         <br className="sm:block hidden" />
-        Districy Advisory
+        District Advisory
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         In the case of District Advisory's rebranding, a new website was

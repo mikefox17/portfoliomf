@@ -8,6 +8,9 @@ const styles = {
   heading3:
     'font-poppins font-semibold xs:text-[50px] text-[34px] text-white xs:leading-[70.2px] leading-[56.8px] w-full',
 
+  paragraph2:
+    'font-poppins font-normal text-gradient text-[14px] leading-[20.8px]',
+
   flexCenter: 'flex justify-center items-center',
   flexStart: 'flex justify-center items-start',
 

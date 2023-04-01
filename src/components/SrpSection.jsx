@@ -14,7 +14,7 @@ const SrpSection = () => (
         Steve Rotfeld Productions
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        When building a new website for Steve Rotfled Productions, we
+        When building a new website for Steve Rotlfeld Productions, we
         prioritized video content and user experience, ensuring that the website
         was designed to interact seamlessly with video content while maintaining
         optimal visual appeal on smaller devices.
