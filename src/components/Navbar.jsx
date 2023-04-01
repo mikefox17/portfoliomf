@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import { close, logo, menu } from '../assets';
+import { close, menu } from '../assets';
 import { navLinks } from '../constants';
 import styles from '../style';
 

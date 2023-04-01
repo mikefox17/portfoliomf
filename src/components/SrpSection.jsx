@@ -1,5 +1,5 @@
 import React from 'react';
-import { card, srp } from '../assets';
+import { srp } from '../assets';
 import styles, { layout } from '../style';
 import Button from './Button';
 

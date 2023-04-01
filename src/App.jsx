@@ -5,12 +5,7 @@ import {
   DaSection,
   SrpSection,
   RedrockSection,
-  Business,
-  Clients,
-  CTA,
-  Stats,
-  Footer,
-  Testimonials,
+  About,
   Hero,
   Contact,
 } from './components';
@@ -30,7 +25,7 @@ const App = () => (
     </div>
     <div className={`bg-primary ${styles.flexStart} ${styles.paddingX}`}>
       <div className={`${styles.boxWidth}`}>
-        <Business /> <DaSection /> <SrpSection /> <RedrockSection />
+        <About /> <DaSection /> <SrpSection /> <RedrockSection />
         <Contact />
       </div>
     </div>
