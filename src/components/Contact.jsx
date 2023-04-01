@@ -75,7 +75,7 @@ const Contact = () => {
               <p className={styles.paragraph2}>
                 Full Stack Developer
                 <br />
-                Specialized in building small businesses
+                Specialized in helping small businesses grow on the web
               </p>
             </div>
           </div>
