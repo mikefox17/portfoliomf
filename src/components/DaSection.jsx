@@ -4,7 +4,7 @@ import styles, { layout } from '../style';
 import Button from '../components/Button';
 
 const DaSection = () => (
-  <section id="product" className={layout.sectionReverse}>
+  <section id="projects" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img
         src={dascreens}

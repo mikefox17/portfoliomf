@@ -3,7 +3,7 @@ import styles, { layout } from '../style';
 
 const Contact = () => {
   return (
-    <section className={layout.section}>
+    <section className={layout.section} id="contact">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-12">
           <h2 className={`${styles.heading2} text-gradient`}>Let's Chat!</h2>
