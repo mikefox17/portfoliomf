@@ -9,7 +9,7 @@ const Contact = () => {
           <h2 className={`${styles.heading2} text-gradient`}>Let's Chat!</h2>
           <p className={styles.paragraph}>
             Reach out and drop a line, let's have a call about your perfect
-            website and bhow I can help it grow
+            website and how I can help it build it
           </p>
         </div>
         <form
