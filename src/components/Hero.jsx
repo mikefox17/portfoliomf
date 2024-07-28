@@ -28,10 +28,10 @@ const Hero = () => (
         & Development
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        For $150 a month, I offer web design services that include custom-coded
-        websites or WordPress sites, web hosting with 24/7 customer service, and
-        unlimited edits, providing small businesses with a comprehensive
-        solution to their website needs.
+        I offer web design services that include custom-coded
+        websites or WordPress sites. I can help find the best solution
+        your buisness, whether it's webshosting or deciding between wordpress and from scratch,
+         I am here to help.
       </p>
     </div>
     <div className={`flex flex-1 ${styles.flexCenter} md:my-0 my-10 relative`}>
